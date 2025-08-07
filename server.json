@@ -2,11 +2,11 @@
   "transactions": [
     {
       "id": 1,
-      "description": "Desenvolvimento de Site",
+      "description": "Salário",
       "type": "income",
       "category": "Venda",
-      "amount": 14000,
-      "created_at": "2025-08-07T18:00:04.110Z"
+      "amount": 6000,
+      "created_at": "2025-08-02T18:00:04.110Z"
     },
     {
       "id": 2,
@@ -14,30 +14,30 @@
       "type": "outcome",
       "category": "Alimentação",
       "amount": 350,
-      "created_at": "2025-08-07T18:00:04.110Z"
+      "created_at": "2025-08-03T18:00:04.110Z"
     },
     {
       "id": 3,
-      "description": "Desenvolvimento de Site",
+      "description": "Bonus",
       "type": "income",
       "category": "Venda",
-      "amount": 14000,
-      "created_at": "2025-08-07T18:00:04.110Z"
+      "amount": 3000,
+      "created_at": "2025-08-04T18:00:04.110Z"
     },
     {
       "id": 4,
-      "description": "Mercado",
+      "description": "Delivery",
       "type": "outcome",
       "category": "Alimentação",
-      "amount": 350,
-      "created_at": "2025-08-07T18:00:04.110Z"
+      "amount": 70,
+      "created_at": "2025-08-04T18:00:04.110Z"
     },
     {
-      "description": "Lanche",
-      "amount": 50,
+      "description": "Restaurante",
+      "amount": 150,
       "category": "Alimentação",
       "type": "outcome",
-      "created_at": "2025-08-07T20:58:58.242Z",
+      "created_at": "2025-08-05T20:58:58.242Z",
       "id": 5
     },
     {
